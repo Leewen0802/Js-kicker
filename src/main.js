@@ -15,7 +15,7 @@ class LINE extends Command {
     }
 
     get myBot() {
-        const bot = ['ufe1707ae9b2ff7ab61505795b7995440','u6949f816dddef051b5762322e5597f1e'];
+        const bot = ['u476fc0669e17d740595c58c5afeb964d'];
         return bot; 
     }
 
